@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋, I'm Atharva Khairnar</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🚀+Passionate+Developer+%7C+💡+Lifelong+Learner+%7C+🤖+Tech+Explorer" alt="Typing SVG" />
-  <p align="center"> I Love Coding </p>
+  <h2 align="center"> I Love Coding </h2>
   
 </p>
 
