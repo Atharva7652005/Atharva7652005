@@ -28,9 +28,9 @@
 <a href="https://www.linkedin.com/in/atharva-khairnar-302a08333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:atharvakhairnar24@pccoepune.org">
+ <!-- <a href="mailto:atharvakhairnar24@pccoepune.org">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  </a>-->
   
 </p>
 ---
