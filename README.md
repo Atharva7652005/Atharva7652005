@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Developments Projects with AI**
 - 🌱 I’m exploring **Full Stack Development** with a touch of **AWS**
-- 🧠 Learning never stops: diving into **ML, **DL, **Gen AI
+- 🧠 Learning never stops: diving into Machine Learning and Deep Learning
 - 💬 Ask me about **Python, JavaScript, Django, or FastAPI**
 <!--- 📫 Reach me at: [atharvakhairnar05@gmail.com](mailto:atharvakhairnar05@gmail.com)-->
 
