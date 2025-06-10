@@ -76,3 +76,27 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
+<h2 align="center">📊 Statistics</h2>
+
+<!-- Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva7652005&theme=tokyonight" />
+</p>
+
+<!-- GitHub Stats (Stars, PRs, Issues) + Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva7652005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharva7652005&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<!-- Top Languages Pie Chart -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva7652005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharva7652005&theme=tokyonight" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night" />
+</p>
+
