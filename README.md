@@ -63,3 +63,34 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva7652005&" alt="atharva7652005" /></p>
 
+<!-- GitHub Stats Grid Style -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide=prs,issues" alt="Atharva's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7652005&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
+
+<!-- Commit Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharva7652005&theme=tokyonight&row=1&margin-w=15" alt="Trophies" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Atharva7652005&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Details -->
+<h3 align="center">📊 GitHub Stats Summary</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&count_private=true&show_icons=true&theme=tokyonight" width="60%" />
+</p>
+
+<!-- Footer Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharva7652005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
