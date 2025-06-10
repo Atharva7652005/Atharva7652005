@@ -61,7 +61,7 @@
 
 <!-- GitHub Stats Grid Style -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide=prs,issues" alt="Atharva's GitHub stats" width="45%" height="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide=prs,issues" alt="Atharva's GitHub stats" width="45%" height="70%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7652005&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" height="50%" />
 </p>
 
