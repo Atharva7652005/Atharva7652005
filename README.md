@@ -42,9 +42,6 @@
   <!-- Frameworks -->
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="70" height="70"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="70" height="70"/>
-<div style="display:inline-block; background-color:white; padding:10px; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="70" height="70"/>
-</div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70"/>
 </p>
 
