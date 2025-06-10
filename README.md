@@ -100,6 +100,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atharva7652005/Atharva7652005/output/github-contribution-grid-snake.svg" />
-</p>
