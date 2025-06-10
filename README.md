@@ -2,14 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🚀+Passionate+Developer+%7C+💡+Lifelong+Learner+%7C+🤖+Tech+Explorer" alt="Typing SVG" />
   <h2 align="center"> I Love Coding </h2>
-  
 </p>
 
 ---
-
-
----
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva7652005" alt="atharva7652005" /></a> </p>
 
 ---
