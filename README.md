@@ -65,11 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=Atharva7652005&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- Commit Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
 <h2 align="center">📊 Statistics</h2>
 
 <!-- Summary Cards -->
