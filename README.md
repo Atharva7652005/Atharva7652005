@@ -53,6 +53,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
 </p>
 
+---
 <!-- GitHub Stats Grid Style with Visually Matched Height -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide=prs,issues&card_width=400" width="400" />
