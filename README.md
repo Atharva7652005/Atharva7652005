@@ -1,3 +1,13 @@
+<!-- Wavy Header for GitHub Profile -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=FFFFFF&background=6444D600&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+Atharva+Khairnar.;Explore+my+GitHub+stats+below!" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharva7652005/Atharva7652005/output/wave-header.svg" alt="wave background" />
+</p>
+
+
 <h1 align="center">Hey there👋, I'm Atharva Khairnar</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🚀+Passionate+Developer+%7C+💡+Lifelong+Learner+%7C+🤖+Tech+Explorer" alt="Typing SVG" />
