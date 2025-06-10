@@ -59,11 +59,9 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva7652005&show_icons=true&locale=en&layout=compact" alt="atharva7652005" /></p>
-<!-- GitHub Stats Grid Style -->
-<p align="center">
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva7652005&show_icons=true&locale=en&layout=compact" alt="atharva7652005" />
   <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide=prs,issues" alt="Atharva's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7652005&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva7652005&" alt="atharva7652005" /></p>
