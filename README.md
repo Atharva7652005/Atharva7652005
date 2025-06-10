@@ -58,12 +58,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
 </p>
+<!-- GitHub Stats Grid Style with Equal Dimensions -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide=prs,issues&card_width=400" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7652005&layout=compact&theme=tokyonight&card_width=400" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<!-- GitHub Stats Grid Style -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide=prs,issues" alt="Atharva's GitHub stats" width="45%" height="70%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7652005&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" height="50%" />
-</p>
 
 <!-- GitHub Streak -->
 <p align="center">
