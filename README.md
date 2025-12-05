@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 About Me
 
@@ -33,8 +33,6 @@
 - 🌱 I'm exploring **Full Stack Development** with a touch of **AWS**
 - 🧠 Learning never stops: diving into Machine Learning and Deep Learning
 - 💬 Ask me about **Python, JavaScript, Django, or FastAPI**
-- ⚡ Fun fact: I turn coffee into code ☕️→💻
-- 🎯 2024 Goals: Contribute more to Open Source projects
 
 <br clear="right"/>
 
