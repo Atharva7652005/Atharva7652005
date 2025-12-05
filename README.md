@@ -35,7 +35,6 @@
 - 💬 Ask me about **Python, JavaScript, Django, or FastAPI**
 - <a href="https://drive.google.com/file/d/1l3d3NbbG6D2nKKvQQmnGLIYtj7IBRdeY/view?usp=sharing" target="_blank">📄 View My Resume</a>
 
-
 <br clear="right"/>
 
 ---
