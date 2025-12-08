@@ -33,7 +33,7 @@
 - 🌱 I'm exploring **Full Stack Development** with a touch of **AWS**
 - 🧠 Learning never stops: diving into Machine Learning and Deep Learning
 - 💬 Ask me about **Python, JavaScript, Django, or FastAPI**
-- <a href="https://drive.google.com/file/d/1l3d3NbbG6D2nKKvQQmnGLIYtj7IBRdeY/view?usp=sharing" target="_blank">📄 View My Resume</a>
+- <a href="https://drive.google.com/file/d/1UUNyTySZ8vkDtTPd8ktM3knodboDAzmx/view?usp=sharing" target="_blank">📄 View My Resume</a>
 
 <br clear="right"/>
 
