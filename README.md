@@ -18,7 +18,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharva7652005&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharva7652005&theme=dracula&no-frame=true&margin-w=10" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Atharva7652005&theme=dracula" />
 </p>
 
 
