@@ -18,10 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atharva7652005&theme=dracula&no-frame=true&row=1&column=7" alt="atharva7652005" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharva7652005&theme=dracula&no-frame=true&row=1&column=7" />
 </p>
+
 
 ---
 
