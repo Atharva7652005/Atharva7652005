@@ -17,16 +17,6 @@
   <img src="https://img.shields.io/github/followers/Atharva7652005?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharva7652005&theme=dracula&no-frame=true&margin-w=10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=dracula" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharva7652005&theme=dracula" />
-</p>
-
 
 ---
 
