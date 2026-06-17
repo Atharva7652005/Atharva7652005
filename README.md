@@ -22,18 +22,18 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I'm currently working on **Full Stack Web Developments Projects with AI**
-- 🌱 I'm exploring **Full Stack Development** with a touch of **AWS**
-- 🧠 Learning never stops: diving into Machine Learning and Deep Learning
-- 💬 Ask me about **Python, JavaScript, Django, or FastAPI**
+- I'm currently working on **Full Stack Web Developments Projects with AI**
+- I'm exploring **Full Stack Development** with a touch of **AWS**
+- Learning never stops: diving into Machine Learning and Deep Learning
+- Ask me about **Python, JavaScript, Django, or FastAPI**
 
 <br clear="right"/>
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-khairnar-302a08333/" target="_blank">
@@ -49,7 +49,7 @@
 
 ---
 
-### 🔤 Languages & Frameworks
+### Programming Languages & Frameworks
 
 <p align="center">
   <!-- Programming Languages -->
@@ -78,7 +78,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
@@ -97,7 +97,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -110,7 +110,7 @@
 
 ---
 
-<h2 align="center">🎯 Detailed Analytics</h2>
+<h2 align="center">Detailed Analytics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva7652005&theme=tokyonight" width="90%"/>
@@ -128,7 +128,7 @@
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night&hide_border=true" />
