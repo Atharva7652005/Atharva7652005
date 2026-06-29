@@ -74,8 +74,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.svg" alt="LangChain" width="150" height="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/static/wordmark_dark.svg" alt="LangGraph" width="150" height="50"/>
+  <img src="https://images.seeklogo.com/logo-png/61/2/langchain-icon-logo-png_seeklogo-611655.png" alt="LangChain" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="LangGraph" width="50" height="50"/>
 </p>
 
 ---
