@@ -3,20 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🚀+Passionate+Developer+%7C+💡+Lifelong+Learner+%7C+🤖+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🤖+AI+%2F+RAG+Systems+Builder;💻+Full+Stack+Developer;📄+IEEE+Research+Co-Author" alt="Typing SVG" />
 </p>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I Love Coding
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharva7652005&label=Profile%20views&color=0e75b6&style=flat" alt="Atharva7652005" />
   <img src="https://img.shields.io/github/followers/Atharva7652005?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/Hackmatrix%202.0-Top%2012%20%2F%20100%2B%20teams-success?style=flat" alt="Hackmatrix" />
 </p>
-
 
 ---
 
@@ -24,10 +18,12 @@
 
 ### About Me
 
-- I'm currently working on **Full Stack Web Developments Projects with AI**
-- I'm exploring **Full Stack Development** with a touch of **AWS**
-- Learning never stops: diving into Machine Learning and Deep Learning
-- Ask me about **Python, JavaScript, Django, or FastAPI**
+- 💼 Software Development Intern @ **MSRSTECH Innovation Service Pvt. Ltd.**
+- 🎓 B.Tech Computer Engineering @ Pimpri Chinchwad College of Engineering — graduating May 2027
+- 🧠 Building **RAG pipelines & LLM-powered apps** with LangChain, FAISS, and Gemini
+- 🌐 Shipping **full-stack products** end-to-end — React/TypeScript, Node, PostgreSQL
+- 📄 Co-authoring IEEE-format survey papers on agentic AI and multilingual audio-video understanding
+- 🏆 Top 12 of 100+ teams at **Hackmatrix 2.0**
 
 <br clear="right"/>
 
@@ -49,10 +45,48 @@
 
 ---
 
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎥 YTubeMind**
+RAG-based chatbot for conversational Q&A over YouTube video content.
+`LangChain` `FAISS` `Google Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+**📡 FlowShare**
+Real-time file & screen sharing tool built on WebRTC, deployed on AWS.
+`WebRTC` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌾 AgriRent**
+Agricultural equipment rental marketplace with vector-based recommendations.
+`ChromaDB` `Recommendation Engine`
+
+</td>
+<td width="50%" valign="top">
+
+**🌿 Bharat Pushpam**
+Full-stack web app for a plant & green-lifestyle business.
+`React` `TypeScript` `PostgreSQL` `Prisma`
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Programming Languages & Frameworks
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -66,7 +100,6 @@
 </p>
 
 <p align="center">
-  <!-- Frameworks -->
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
