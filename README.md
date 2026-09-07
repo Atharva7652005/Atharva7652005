@@ -1,15 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hey+there;I'm+Atharva+Khairnar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Atharva+Khairnar" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+GenAI+%7C+Backend+Engineering+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🚀+Passionate+Developer+%7C+💡+Lifelong+Learner+%7C+🤖+Tech+Explorer" alt="Typing SVG" />
 </p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I Love Coding
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharva7652005&label=Profile%20views&color=0e75b6&style=flat" alt="Atharva7652005" />
-  <img src="https://img.shields.io/github/followers/Atharva7652005?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/Atharva7652005?label=Followers&style=social" alt="GitHub Badge">
 </p>
+
 
 ---
 
@@ -18,11 +25,12 @@
 ### About Me
 
 - Currently building **Full Stack applications with AI**
-- Working with **Backend Development, REST APIs, and Cloud**
+- Working with **Backend Development, Cloud Computing, and DevOps**
 - Exploring **Generative AI, RAG, LLMs, and Machine Learning**
 - Interested in **System Design, Distributed Systems, and Scalable Applications**
-- Solved **400+ DSA problems** across coding platforms
+- Solved **600+ DSA problems** across coding platforms
 - Ask me about **Python, JavaScript, TypeScript, Node.js, Django, or FastAPI**
+
 
 <br clear="right"/>
 
@@ -47,25 +55,28 @@
 ### Programming Languages & Frameworks
 
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50"/>
 </p>
 
 <p align="center">
+  <!-- Frameworks -->
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/>
   <img src="https://images.seeklogo.com/logo-png/61/2/langchain-icon-logo-png_seeklogo-611655.png" alt="LangChain" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="LangGraph" width="50" height="50"/>
 </p>
@@ -104,6 +115,24 @@
 
 ---
 
+<h2 align="center">Detailed Analytics</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva7652005&theme=tokyonight" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva7652005&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharva7652005&theme=tokyonight&utcOffset=5.5" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva7652005&theme=tokyonight" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharva7652005&theme=tokyonight" width="32%" />
+</p>
+
+---
+
 <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
@@ -117,5 +146,5 @@
 </p>
 
 <p align="center">
-  <i>From <a href="https://github.com/Atharva7652005">Atharva Khairnar</a></i>
+  <i>⭐️ From <a href="https://github.com/Atharva7652005">Atharva Khairnar</a> - Happy Coding! 💻</i>
 </p>
