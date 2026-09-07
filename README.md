@@ -1,214 +1,109 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=650&lines=Hey+there+👋;I'm+Atharva+Khairnar;Full+Stack+%26+GenAI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Atharva+Khairnar" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Software Developer Intern @ MSRSTECH</b>
-  &nbsp; • &nbsp;
-  <b>Computer Engineering Student @ PCCOE</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🚀+Passionate+Developer+%7C+💡+Lifelong+Learner+%7C+🤖+Tech+Explorer" alt="Typing SVG" />
 </p>
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I Love Coding
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
 <p align="center">
-  Building scalable web applications, AI-powered systems, and backend solutions.
+  <img src="https://komarev.com/ghpvc/?username=Atharva7652005&label=Profile%20views&color=0e75b6&style=flat" alt="Atharva7652005" />
+  <img src="https://img.shields.io/github/followers/Atharva7652005?label=Followers&style=social" alt="GitHub Badge">
 </p>
+
+
+---
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### About Me
+
+- I'm currently working on **Full Stack Web Developments Projects with AI**
+- I'm exploring **Full Stack Development** with a touch of **AWS**
+- Learning never stops: diving into Machine Learning and Deep Learning
+- Ask me about **Python, JavaScript, Django, or FastAPI**
+
+<br clear="right"/>
+
+---
+
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-khairnar-302a08333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Atharva7652005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://x.com/AtharvaKhai" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
+---
+
+### Programming Languages & Frameworks
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharva7652005&label=Profile%20Views&color=F7971E&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Atharva7652005?label=Followers&style=social" alt="GitHub Followers"/>
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50"/>
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://images.seeklogo.com/logo-png/61/2/langchain-icon-logo-png_seeklogo-611655.png" alt="LangChain" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="LangGraph" width="50" height="50"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Computer Engineering student at PCCOE** and currently working as a **Software Developer Intern at MSRSTECH Innovation Service**.
-
-I build **full-stack applications, backend systems, and AI-powered solutions**, with a focus on creating practical and scalable software.
-
-- 💼 Currently working on **backend and full-stack applications**
-- 🤖 Building applications with **Generative AI, RAG, and LLMs**
-- ☁️ Exploring **AWS, Docker, cloud deployments, and DevOps**
-- ⚙️ Interested in **Backend Engineering & System Design**
-- 🧠 Solved **400+ DSA problems**
-- 📚 Continuously improving my understanding of **Computer Science fundamentals**
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 KnowLearn
-
-**AI-powered e-learning platform**
-
-- Engineered a dual-backend e-learning platform automating **media transcription, note-taking, and quiz generation**.
-- Integrated a **transcript-grounded RAG AI tutor** and role-based admin dashboard.
-- Implemented **Redis-based caching** for API responses, sessions, rate limiting, and analytics.
-- Deployed the application using **AWS EC2, Nginx, S3, and Cloudinary**.
-
-**Technologies:**  
-`React.js` `Node.js` `Express.js` `OpenAI` `Redis` `AWS` `Nginx` `S3` `Cloudinary` `RAG`
-
----
-
-### 🌾 AgriRent
-
-**Smart agricultural equipment rental platform**
-
-- Architected a dual-role marketplace connecting **farmers and equipment owners** with booking, pricing, and location filtering.
-- Integrated a **Node.js-based RAG recommendation engine** for context-aware equipment recommendations.
-- Implemented conflict-aware booking logic to prevent **double-booking collisions**.
-
-**Technologies:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `RAG`
-
----
-
-### 📚 Scrollpedia
-
-**Personalized short-form learning platform**
-
-- Indexed **1,000+ Wikipedia articles** into Supabase to power personalized learning content.
-- Developed **5+ Hono.js APIs** for feeds, user interactions, and content management.
-- Integrated an **ML recommendation pipeline** to personalize content discovery.
-
-**Technologies:**  
-`React Native` `Hono.js` `Supabase` `Python` `TensorFlow`
-
----
-
-### 🔄 FlowShare
-
-**Real-time peer-to-peer collaboration platform**
-
-- Engineered a **WebRTC-based collaboration platform** supporting 100+ concurrent users.
-- Achieved **<300 ms peer setup** for real-time connections.
-- Deployed on **AWS EC2 with Nginx and S3**, supporting secure file transfers up to 50 MB.
-
-**Technologies:**  
-`Django` `WebRTC` `PostgreSQL` `AWS EC2` `AWS S3` `Nginx`
-
----
-
-### 🎥 Video AI Assistant
-
-**AI-powered conversational video understanding**
-
-- Built an AI application that processes uploaded videos through **speech-to-text transcription**.
-- Implemented transcript chunking, embedding generation, and **vector-based semantic retrieval**.
-- Integrated a **RAG pipeline** for context-aware question answering over video content.
-- Added **multilingual support** for interacting with video content.
-
-**Technologies:**  
-`Python` `LangChain` `ChromaDB` `Gemini API` `RAG`
-
----
-
-### 🏠 Rently
-
-**Smart rent management platform**
-
-- Developed a platform for managing **tenants, rooms, rent payments, and electricity bills**.
-- Integrated **Supabase Database and Storage** for tenant records and document management.
-- Implemented payment tracking, tenant management, search, filtering, and dashboard analytics.
-
-**Technologies:**  
-`React.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS`
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+### Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,kotlin,php" />
-</p>
-
-### 🌐 Frontend & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,django,fastapi,html,css,tailwind" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,aws,docker,nginx" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,firebase,androidstudio" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" alt="Appwrite" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
 ---
 
-## 🧠 Problem Solving
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-400%2B%20Problems-F7971E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-181717?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  Solving problems across <b>Data Structures, Algorithms, OOP, DBMS, Operating Systems, and Computer Networks</b>.
-</p>
-
----
-
-## 💼 Experience
-
-### Software Developer Intern — MSRSTECH Innovation Service
-
-**May 2026 – Present | Pune, India**
-
-- Developing and maintaining backend modules and **REST APIs** for enterprise applications.
-- Working with **TypeScript, Node.js, Express.js, API integration, testing, and Git**.
-- Collaborating with cross-functional teams to implement features, debug issues, and improve application reliability.
-
----
-
-### Web Developer Intern — Softanic Solutions Pvt. Ltd.
-
-**Jun 2023 – Aug 2023 | Jalgaon, India**
-
-- Built reusable **React.js components** for web application modules.
-- Implemented backend functionality and authentication using **Django**.
-- Worked with frontend and backend technologies to deliver functional web features.
-
----
-
-## 📊 GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atharva7652005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7652005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7652005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,html" width="48%" />
 </p>
 
 <p align="center">
@@ -217,28 +112,28 @@ I build **full-stack applications, backend systems, and AI-powered solutions**, 
 
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">Detailed Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva7652005&theme=tokyonight" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva7652005&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharva7652005&theme=tokyonight&utcOffset=5.5" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva7652005&theme=tokyonight" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharva7652005&theme=tokyonight" width="32%" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharva-khairnar-302a08333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/AtharvaKhai" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Atharva7652005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -248,5 +143,5 @@ I build **full-stack applications, backend systems, and AI-powered solutions**, 
 </p>
 
 <p align="center">
-  <i>Building. Learning. Shipping. 🚀</i>
+  <i>⭐️ From <a href="https://github.com/Atharva7652005">Atharva Khairnar</a> - Happy Coding! 💻</i>
 </p>
