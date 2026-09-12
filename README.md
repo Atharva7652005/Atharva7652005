@@ -28,7 +28,7 @@
 - Working with **Backend Development, Cloud Computing, and DevOps**
 - Exploring **Generative AI, RAG, LLMs, and Machine Learning**
 - Interested in **System Design, Distributed Systems, and Scalable Applications**
-- Solved **600+ DSA problems** across coding platforms
+- Solved **600+ DSA problems** Leetcode + CodeChef
 - Ask me about **Python, JavaScript, TypeScript, Node.js, Django, or FastAPI**
 
 
