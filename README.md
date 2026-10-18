@@ -137,7 +137,7 @@
 <h2 align="center">Contribution Graph</h2>
 
  <p align="center">
-  <img src="https://ghchart.rshah.org/Atharva7652005" alt="Atharva7652005's Contribution Chart" />
+  <img src="https://snk-api.vercel.app/api/github?username=Atharva7652005" alt="Snake Animation" />
 </p>
 
 <p align="center">
