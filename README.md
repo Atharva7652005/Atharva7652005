@@ -136,7 +136,7 @@
 
 <h2 align="center">Contribution Graph</h2>
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night&hide_border=true" />
 </p>
 
