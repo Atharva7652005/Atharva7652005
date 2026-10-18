@@ -136,7 +136,9 @@
 
 <h2 align="center">Contribution Graph</h2>
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva7652005&theme=tokyonight" />
+ <p align="center">
+  <img src="https://ghchart.rshah.org/Atharva7652005" alt="Atharva7652005's Contribution Chart" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
