@@ -29,6 +29,7 @@
 - Exploring **Generative AI, RAG, LLMs, and Machine Learning**
 - Interested in **System Design, Distributed Systems, and Scalable Applications**
 - Solved **600+ DSA problems** Leetcode + CodeChef
+- 1800+ LeetCode rating & 2 ⭐⭐ @CodeChef
 - Ask me about **Python, JavaScript, TypeScript, Node.js, Django, or FastAPI**
 
 
