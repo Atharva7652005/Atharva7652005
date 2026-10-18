@@ -139,7 +139,6 @@
  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night&hide_border=true" />
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
