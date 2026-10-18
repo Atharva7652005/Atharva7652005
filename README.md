@@ -137,9 +137,8 @@
 <h2 align="center">Contribution Graph</h2>
 
  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva7652005&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Atharva7652005/Atharva7652005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 ---
 
 <p align="center">
