@@ -136,9 +136,7 @@
 
 <h2 align="center">Contribution Graph</h2>
 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharva7652005/Atharva7652005/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva7652005&theme=tokyonight" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
