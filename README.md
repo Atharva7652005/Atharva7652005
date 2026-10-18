@@ -137,7 +137,7 @@
 <h2 align="center">Contribution Graph</h2>
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharva7652005/Atharva7652005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva7652005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
